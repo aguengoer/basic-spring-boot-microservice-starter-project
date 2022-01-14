@@ -10,8 +10,8 @@
         <module name="user-service" />
         <module name="cloud-config-server" />
         <module name="department-service" />
-        <module name="service-registry" />
         <module name="cloud-gateway" />
+        <module name="service-registry" />
         <module name="hystrix-dashboard" />
       </profile>
     </annotationProcessing>
@@ -20,6 +20,7 @@
       <module name="cloud-gateway" target="11" />
       <module name="department-service" target="11" />
       <module name="hystrix-dashboard" target="11" />
+      <module name="microservice-starter" target="1.5" />
       <module name="service-registry" target="11" />
       <module name="user-service" target="11" />
     </bytecodeTargetLevel>

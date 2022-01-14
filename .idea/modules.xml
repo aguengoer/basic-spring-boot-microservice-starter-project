@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" filepath="$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/department-service/department-service.iml" filepath="$PROJECT_DIR$/department-service/department-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-starter.iml" filepath="$PROJECT_DIR$/microservice-starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-micro-service-starter.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-micro-service-starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
